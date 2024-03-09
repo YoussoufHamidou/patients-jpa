@@ -1,1 +1,1 @@
-patents-jpa
+patients-jpa
